@@ -1,0 +1,17 @@
+{
+    "name": "sistema de ventas",
+    "short_name": "ventas",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./fruta.png",
+            "type": "image/png",
+            "sizes": "629x640"
+        }
+    ]
+}
